@@ -1,7 +1,7 @@
 # Description
 - Code that provides efficiency on automatic downloads for users through a library called " Chocolatey "
 <h5> Lessons about various topics such as </h5>
-<ul>- Slowness </ul> 
+<ul> -Slowness </ul> 
 -
 -
 - <b> && malware && game performance && audio and connectivity issues </b>
