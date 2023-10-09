@@ -1,12 +1,14 @@
 # Description
 - Code that provides efficiency on automatic downloads for users through a library called " Chocolatey "
   <br>
-- Lessons about various topics such as 
-<b><ul> - Slowness </ul>  
+- Lessons about various topics such as]
+ <b> 
+<ul> - Slowness </ul>  
 <ul> - Malware </ul>  
 <ul> - Game performance </ul>  
 <ul> - Audio </ul>  
-<ul> - Connectivity issues </ul> </b> 
+<ul> - Connectivity issues </ul> 
+</b> 
 
 
 
