@@ -12,4 +12,11 @@
 
 
 
-- Shortcuts for routine use of various standard software <b> Linux && Browsers && Office package && IDE's && Adobe pakcage </b> 
+- Shortcuts for routine use of various standard software:
+ <b> 
+<ul> - Linux </ul>  
+<ul> - Browsers </ul>  
+<ul> - Office package </ul>  
+<ul> - IDE's </ul>  
+<ul> - Adobe package </ul> 
+</b> 
