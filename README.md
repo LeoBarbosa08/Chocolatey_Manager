@@ -1,6 +1,6 @@
 # Description
 - Code that provides efficiency on automatic downloads for users through a library called " Chocolatey "
-<h5> Lessons about various topics such as </h5>
+<strong> Lessons about various topics such as </strong>
 <ul> -Slowness </ul> 
 -
 -
